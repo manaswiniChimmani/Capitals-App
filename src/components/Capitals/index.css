@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #93c5fd;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  background-color: #f8fafc;
+  border-radius: 10px;
+  padding: 32px;
+}
+.h1 {
+  color: #1e293b;
+  font-size: 28px;
+}
+.selection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sel {
+  width: 100px;
+  height: 40px;
+  padding: 5px;
+}
+.opt {
+  color: #000000;
+  font-size: 23px;
+}
+.que {
+  color: #323f4b;
+  font-size: 20px;
+  padding-left: 5px;
+}
+.country-name {
+  color: #1e293b;
+  font-size: 27px;
+  font-weight: bold;
+}
